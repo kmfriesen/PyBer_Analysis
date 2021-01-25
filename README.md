@@ -7,6 +7,8 @@ The purpose of the new analysis was to x, y, z.
 # Results
 Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 
+![alt text](https://github.com/kmfriesen/PyBer_Analysis/blob/main/Fig1.png)
+
 ![alt text](https://github.com/kmfriesen/PyBer_Analysis/blob/main/PyBer_fare_summary.png)
 
 
