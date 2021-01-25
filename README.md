@@ -27,5 +27,5 @@ The average fare per driver was $55.49 for rural drivers, $39.50 for suburban dr
 
 # Summary
 Based on the results, here are some business recommendations to the CEO for addressing any disparities among the city types.
-1.  Add more drivers to rural city types to see the effect on the Total Rides
-Continue to add more drivers to rural cities to see at if at anypoint the average fare per ride decreases
+1. Recruit more drivers in rural cities to see if it can increase total rides and decrease average fare per ride. 
+2. 
