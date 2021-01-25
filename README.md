@@ -2,7 +2,7 @@
 python, pandas, numpy, matlablib
 
 # Overview of the analysis
-The purpose of the new analysis was to x, y, z. 
+The purpose of the new analysis was to create a summary DataFrame of the ride-sharing data by city type to better understand PyBer's ride sharing data and make reccomendations. 
 
 # Results
 Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
