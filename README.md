@@ -23,9 +23,18 @@ Rural fares were most expensive with the average fare being $34.62. Suburban far
 The average fare per driver was $55.49 for rural drivers, $39.50 for suburban drivers, and $16.57 for urban drivers. 
 
 ![alt text](https://github.com/kmfriesen/PyBer_Analysis/blob/main/PyBer_fare_summary.png)
+### Urban: 
+Generate the most money late February to mid March
+Total fares fluctuate the most in urban cities during February and March. 
 
+### Suburban: 
+Generate the most money in late February but then drop down again at the start of March. 
+Total fares start to pick back up again after they fall in mid April. 
+
+### Rural: 
+Gererate the most money in April. 
+Total fares are the most consistent of the three areas. 
 
 # Summary
 Based on the results, here are some business recommendations to the CEO for addressing any disparities among the city types.
-1. Recruit more drivers in rural cities to see if it can increase total rides and decrease average fare per ride. 
-2. 
+Recruit more drivers in rural cities to see if it can increase total rides and/or decrease the average fare price. Look at local news data during the busiest months to see if you can find any trends with what events might correspond with more rides and see if you can work with local partners to bring some of those events to more rural areas to generate business. 
