@@ -24,7 +24,7 @@ The average fare per driver was $55.49 for rural drivers, $39.50 for suburban dr
 
 ![alt text](https://github.com/kmfriesen/PyBer_Analysis/blob/main/PyBer_fare_summary.png)
 ### Urban: 
-Generate the most money late February to mid March
+Generate the most money late February to mid March.
 Total fares fluctuate the most in urban cities during February and March. 
 
 ### Suburban: 
