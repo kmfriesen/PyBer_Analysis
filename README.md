@@ -13,9 +13,9 @@ Using images from the summary DataFrame and multiple-line chart, describe the di
 
 ![alt text](https://github.com/kmfriesen/PyBer_Analysis/blob/main/Summary%20stats.PNG)
 
-Total Rides:
+###Total Rides:
 Urban cities had the most rides with 1625 followed by suburban with 625 and rural with 125.
-Total Drivers:
+###Total Drivers:
 Urban cities had the most drivers (2405) followed by suburban (490) then rural (78).
 Total Fares:
 Urban cities had $39854.38 in fares, surburban had $$19356.33 and rural $4327.93.
